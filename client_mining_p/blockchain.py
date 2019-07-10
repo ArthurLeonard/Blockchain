@@ -7,7 +7,7 @@ from flask import Flask, jsonify, request
 
 import sys
 
-
+# 1st day
 class Blockchain(object):
     def __init__(self):
         self.chain = []
